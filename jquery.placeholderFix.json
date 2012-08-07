@@ -1,0 +1,37 @@
+{
+    "name": "placeholderFix",
+    "version": "1.0.0",
+    "title": ".placeholderFix()",
+    "author": {
+        "name": "Simone Pomata",
+        "url": "https://github.com/SimonePomata"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/SimonePomata/jquery-placeholderFix/blob/master/LICENSE-MIT.txt"
+        },
+        {
+            "type": "GPLv2",
+            "url": "https://github.com/SimonePomata/jquery-placeholderFix/blob/master/LICENSE-GPL.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.6"
+    },
+    "description": "This is an useful plugin to show HTML5 placeholder in old browser or to manage it with a CSS class.",
+    "keywords": [
+        "placeholder",
+        "cross-browser",
+        "css"
+	],
+    "homepage": "https://github.com/SimonePomata/jquery-placeholderFix",
+    "docs": "http://www.simonepomata.com/jquery/plugin/placeholderFix/",
+    "homepage": "http://www.simonepomata.com/jquery/plugin/placeholderFix/",
+    "maintainers": [
+        {
+            "name": "Simone Pomata",
+            "url": "https://github.com/SimonePomata"
+        }
+    ]
+}
