@@ -27,7 +27,7 @@
 	],
     "homepage": "https://github.com/SimonePomata/jquery-placeholderFix",
     "docs": "http://www.simonepomata.com/jquery/plugin/placeholderFix/",
-    "homepage": "http://www.simonepomata.com/jquery/plugin/placeholderFix/",
+    "demo": "http://www.simonepomata.com/jquery/plugin/placeholderFix/",
     "maintainers": [
         {
             "name": "Simone Pomata",
